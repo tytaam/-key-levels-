@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>// KEY LEVELS //</title>
+<style>
+  :root{--bg:#0b0d10;--card:#14181d;--line:#232a31;--text:#e8edf2;--dim:#8a96a3;--acc:#ff9f0a}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font:15px/1.4 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  main{max-width:880px;margin:0 auto;padding:28px 16px 60px}
+  h1{margin:0 0 4px;font-size:22px;letter-spacing:.08em}
+  h1 span{color:var(--acc)}
+  .sub{color:var(--dim);margin-bottom:24px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px}
+  .top{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+  .sym{font-size:18px;font-weight:700}
+  a.btn{background:var(--acc);color:#000;text-decoration:none;font-weight:700;padding:6px 12px;border-radius:6px;font-size:13px}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  td{padding:3px 0;border-top:1px solid var(--line)}
+  td.p{text-align:right;color:var(--dim)}
+  .err{color:#ff453a}
+</style>
+</head>
+<body>
+<main>
+  <h1><span>//</span> KEY LEVELS <span>//</span></h1>
+  <div class="sub" id="updated">Loading…</div>
+  <div class="grid" id="grid"></div>
+</main>
+<script>
+fetch("levels.json?t=" + Date.now()).then(r => r.json()).then(d => {
+  document.getElementById("updated").textContent = "Updated " + d.updated;
+  const grid = document.getElementById("grid");
+  for (const [sym, rows] of Object.entries(d.symbols)) {
+    const card = document.createElement("div");
+    card.className = "card";
+    const top = document.createElement("div"); top.className = "top";
+    const name = document.createElement("div"); name.className = "sym"; name.textContent = sym;
+    const a = document.createElement("a"); a.className = "btn"; a.textContent = "Download";
+    a.href = "LEVELS_keylevels_" + sym + ".xml";
+    a.download = "LEVELS_keylevels_" + sym + "_" + d.date + ".xml";
+    top.append(name, a);
+    const t = document.createElement("table");
+    for (const r of rows) {
+      const tr = t.insertRow();
+      tr.insertCell().textContent = r.label;
+      const p = tr.insertCell(); p.className = "p"; p.textContent = r.price;
+    }
+    card.append(top, t); grid.append(card);
+  }
+}).catch(() => {
+  const u = document.getElementById("updated");
+  u.className = "err"; u.textContent = "No levels yet. Run the workflow once on GitHub.";
+});
+</script>
+</body>
+</html>
