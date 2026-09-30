@@ -1,0 +1,52 @@
+name: Update key levels
+
+on:
+  schedule:
+    - cron: "15 13 * * 1-5"
+    - cron: "15 14 * * 1-5"
+    - cron: "45 23 * * 0-5"
+    - cron: "45 0 * * 1-6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check California time
+        id: gate
+        run: |
+          S="${{ github.event.schedule }}"
+          if [ -z "$S" ]; then echo "go=true" >> $GITHUB_OUTPUT; exit 0; fi
+          DST=$(TZ=America/Los_Angeles date +%Z)
+          GO=false
+          case "$S" in
+            "15 13 * * 1-5"|"45 23 * * 0-5") [ "$DST" = "PDT" ] && GO=true ;;
+            "15 14 * * 1-5"|"45 0 * * 1-6")  [ "$DST" = "PST" ] && GO=true ;;
+          esac
+          echo "go=$GO" >> $GITHUB_OUTPUT
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.go == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Build levels
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          pip install -q yfinance pandas numpy
+          python key_levels.py
+
+      - name: Publish
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          git config user.name "key-levels-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs
+          git commit -m "Levels $(TZ=America/Los_Angeles date '+%Y-%m-%d %H:%M PT')" || echo "No changes"
+          git push
