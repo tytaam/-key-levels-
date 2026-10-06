@@ -1,11 +1,19 @@
 {
-  "updated": "Mon Oct 05, 2026 08:21 PM PT",
-  "date": "2026-10-05",
+  "updated": "Tue Oct 06, 2026 11:55 AM PT",
+  "date": "2026-10-06",
   "symbols": {
     "MNQ": [
       {
-        "label": "WH",
-        "price": 31411.25
+        "label": "TueH + WH",
+        "price": 31616.5
+      },
+      {
+        "label": "ONH",
+        "price": 31539.0
+      },
+      {
+        "label": "TueL",
+        "price": 31457.75
       },
       {
         "label": "MonH",
@@ -14,6 +22,10 @@
       {
         "label": "pVAH",
         "price": 31342.5
+      },
+      {
+        "label": "ONL",
+        "price": 31309.25
       },
       {
         "label": "PWH",
@@ -42,8 +54,16 @@
     ],
     "NQ": [
       {
-        "label": "WH",
-        "price": 31411.25
+        "label": "TueH + WH",
+        "price": 31616.5
+      },
+      {
+        "label": "ONH",
+        "price": 31539.0
+      },
+      {
+        "label": "TueL",
+        "price": 31457.75
       },
       {
         "label": "MonH",
@@ -52,6 +72,10 @@
       {
         "label": "pVAH",
         "price": 31342.5
+      },
+      {
+        "label": "ONL",
+        "price": 31309.25
       },
       {
         "label": "PWH",
@@ -80,12 +104,28 @@
     ],
     "MES": [
       {
-        "label": "MonH + WH",
+        "label": "TueH + WH",
+        "price": 7897.5
+      },
+      {
+        "label": "ONH",
+        "price": 7867.75
+      },
+      {
+        "label": "TueL",
+        "price": 7860.25
+      },
+      {
+        "label": "MonH",
         "price": 7847.5
       },
       {
         "label": "pVAH",
         "price": 7846.75
+      },
+      {
+        "label": "ONL",
+        "price": 7829.0
       },
       {
         "label": "pPOC",
@@ -114,12 +154,28 @@
     ],
     "ES": [
       {
-        "label": "MonH + WH",
+        "label": "TueH + WH",
+        "price": 7897.5
+      },
+      {
+        "label": "ONH",
+        "price": 7867.75
+      },
+      {
+        "label": "TueL",
+        "price": 7860.25
+      },
+      {
+        "label": "MonH",
         "price": 7847.5
       },
       {
         "label": "pVAH",
         "price": 7846.75
+      },
+      {
+        "label": "ONL",
+        "price": 7829.0
       },
       {
         "label": "pPOC",
