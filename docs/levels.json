@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 08, 2026 08:06 PM PT",
-  "date": "2026-10-08",
+  "updated": "Fri Oct 09, 2026 11:50 AM PT",
+  "date": "2026-10-09",
   "symbols": {
     "MNQ": [
       {
@@ -16,8 +16,24 @@
         "price": 31282.5
       },
       {
+        "label": "ONH",
+        "price": 31266.5
+      },
+      {
         "label": "pPOC",
         "price": 31240.25
+      },
+      {
+        "label": "FriH",
+        "price": 31180.0
+      },
+      {
+        "label": "FriL",
+        "price": 30991.0
+      },
+      {
+        "label": "ONL",
+        "price": 30953.0
       },
       {
         "label": "pVAL",
@@ -46,8 +62,24 @@
         "price": 31282.5
       },
       {
+        "label": "ONH",
+        "price": 31266.5
+      },
+      {
         "label": "pPOC",
         "price": 31240.25
+      },
+      {
+        "label": "FriH",
+        "price": 31180.0
+      },
+      {
+        "label": "FriL",
+        "price": 30991.0
+      },
+      {
+        "label": "ONL",
+        "price": 30953.0
       },
       {
         "label": "pVAL",
@@ -68,12 +100,28 @@
         "price": 7897.5
       },
       {
+        "label": "FriH",
+        "price": 7864.25
+      },
+      {
+        "label": "ONH",
+        "price": 7853.75
+      },
+      {
         "label": "ThuH",
         "price": 7850.0
       },
       {
         "label": "pVAH",
         "price": 7828.5
+      },
+      {
+        "label": "FriL",
+        "price": 7826.75
+      },
+      {
+        "label": "ONL",
+        "price": 7817.0
       },
       {
         "label": "PWH",
@@ -106,12 +154,28 @@
         "price": 7897.5
       },
       {
+        "label": "FriH",
+        "price": 7864.25
+      },
+      {
+        "label": "ONH",
+        "price": 7853.75
+      },
+      {
         "label": "ThuH",
         "price": 7850.0
       },
       {
         "label": "pVAH",
         "price": 7828.5
+      },
+      {
+        "label": "FriL",
+        "price": 7826.75
+      },
+      {
+        "label": "ONL",
+        "price": 7817.0
       },
       {
         "label": "PWH",
