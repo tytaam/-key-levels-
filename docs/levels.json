@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Oct 12, 2026 08:54 PM PT",
-  "date": "2026-10-12",
+  "updated": "Tue Oct 13, 2026 12:53 PM PT",
+  "date": "2026-10-13",
   "symbols": {
     "MNQ": [
       {
@@ -20,6 +20,10 @@
         "price": 30958.25
       },
       {
+        "label": "ONH",
+        "price": 30906.0
+      },
+      {
         "label": "pPOC",
         "price": 30891.5
       },
@@ -32,12 +36,20 @@
         "price": 30844.25
       },
       {
+        "label": "TueH",
+        "price": 30814.75
+      },
+      {
         "label": "PWL",
         "price": 30792.0
       },
       {
-        "label": "WL",
+        "label": "ONL",
         "price": 30604.75
+      },
+      {
+        "label": "TueL + WL",
+        "price": 30591.25
       }
     ],
     "NQ": [
@@ -58,6 +70,10 @@
         "price": 30958.25
       },
       {
+        "label": "ONH",
+        "price": 30906.0
+      },
+      {
         "label": "pPOC",
         "price": 30891.5
       },
@@ -70,12 +86,20 @@
         "price": 30844.25
       },
       {
+        "label": "TueH",
+        "price": 30814.75
+      },
+      {
         "label": "PWL",
         "price": 30792.0
       },
       {
-        "label": "WL",
+        "label": "ONL",
         "price": 30604.75
+      },
+      {
+        "label": "TueL + WL",
+        "price": 30591.25
       }
     ],
     "MES": [
@@ -90,6 +114,14 @@
       {
         "label": "MonH",
         "price": 7870.0
+      },
+      {
+        "label": "ONH",
+        "price": 7864.0
+      },
+      {
+        "label": "TueH",
+        "price": 7863.25
       },
       {
         "label": "pVAH",
@@ -108,8 +140,12 @@
         "price": 7846.25
       },
       {
-        "label": "WL",
+        "label": "ONL",
         "price": 7836.0
+      },
+      {
+        "label": "TueL + WL",
+        "price": 7834.5
       },
       {
         "label": "PWL",
@@ -130,6 +166,14 @@
         "price": 7870.0
       },
       {
+        "label": "ONH",
+        "price": 7864.0
+      },
+      {
+        "label": "TueH",
+        "price": 7863.25
+      },
+      {
         "label": "pVAH",
         "price": 7862.25
       },
@@ -146,8 +190,12 @@
         "price": 7846.25
       },
       {
-        "label": "WL",
+        "label": "ONL",
         "price": 7836.0
+      },
+      {
+        "label": "TueL + WL",
+        "price": 7834.5
       },
       {
         "label": "PWL",
