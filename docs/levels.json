@@ -1,5 +1,5 @@
 {
-  "updated": "Fri Oct 16, 2026 10:27 AM PT",
+  "updated": "Fri Oct 16, 2026 06:34 PM PT",
   "date": "2026-10-16",
   "symbols": {
     "MNQ": [
@@ -49,7 +49,7 @@
       },
       {
         "label": "FriL + WL",
-        "price": 29450.25
+        "price": 29268.75
       }
     ],
     "NQ": [
@@ -99,7 +99,7 @@
       },
       {
         "label": "FriL + WL",
-        "price": 29450.25
+        "price": 29268.75
       }
     ],
     "MES": [
@@ -149,7 +149,7 @@
       },
       {
         "label": "FriL + WL",
-        "price": 7699.5
+        "price": 7676.0
       }
     ],
     "ES": [
@@ -199,7 +199,7 @@
       },
       {
         "label": "FriL + WL",
-        "price": 7699.5
+        "price": 7676.0
       }
     ]
   }
