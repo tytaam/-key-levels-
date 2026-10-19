@@ -1,6 +1,6 @@
 {
-  "updated": "Sun Oct 18, 2026 06:47 PM PT",
-  "date": "2026-10-18",
+  "updated": "Mon Oct 19, 2026 12:21 PM PT",
+  "date": "2026-10-19",
   "symbols": {
     "MNQ": [
       {
@@ -12,15 +12,23 @@
         "price": 30045.75
       },
       {
+        "label": "MonH + WH",
+        "price": 29983.5
+      },
+      {
         "label": "pVAH",
         "price": 29817.25
       },
       {
-        "label": "WH",
-        "price": 29701.0
+        "label": "ONH",
+        "price": 29813.5
       },
       {
-        "label": "WL",
+        "label": "MonL",
+        "price": 29653.75
+      },
+      {
+        "label": "ONL + WL",
         "price": 29501.25
       },
       {
@@ -42,15 +50,23 @@
         "price": 30045.75
       },
       {
+        "label": "MonH + WH",
+        "price": 29983.5
+      },
+      {
         "label": "pVAH",
         "price": 29817.25
       },
       {
-        "label": "WH",
-        "price": 29701.0
+        "label": "ONH",
+        "price": 29813.5
       },
       {
-        "label": "WL",
+        "label": "MonL",
+        "price": 29653.75
+      },
+      {
+        "label": "ONL + WL",
         "price": 29501.25
       },
       {
@@ -72,15 +88,23 @@
         "price": 7803.25
       },
       {
+        "label": "MonH + WH",
+        "price": 7773.25
+      },
+      {
+        "label": "ONH",
+        "price": 7768.5
+      },
+      {
         "label": "pVAH",
         "price": 7758.75
       },
       {
-        "label": "WH",
-        "price": 7746.5
+        "label": "MonL",
+        "price": 7727.5
       },
       {
-        "label": "WL",
+        "label": "ONL + WL",
         "price": 7718.5
       },
       {
@@ -102,15 +126,23 @@
         "price": 7803.25
       },
       {
+        "label": "MonH + WH",
+        "price": 7773.25
+      },
+      {
+        "label": "ONH",
+        "price": 7768.5
+      },
+      {
         "label": "pVAH",
         "price": 7758.75
       },
       {
-        "label": "WH",
-        "price": 7746.5
+        "label": "MonL",
+        "price": 7727.5
       },
       {
-        "label": "WL",
+        "label": "ONL + WL",
         "price": 7718.5
       },
       {
