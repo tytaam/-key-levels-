@@ -1,43 +1,35 @@
 {
-  "updated": "Wed Oct 28, 2026 11:52 AM PT",
+  "updated": "Wed Oct 28, 2026 07:55 PM PT",
   "date": "2026-10-28",
   "symbols": {
     "MNQ": [
+      {
+        "label": "WH",
+        "price": 30178.0
+      },
       {
         "label": "PWH",
         "price": 30113.0
       },
       {
-        "label": "WedH + WH",
-        "price": 30004.0
+        "label": "WedH",
+        "price": 30009.0
       },
       {
-        "label": "ONH",
-        "price": 29989.25
-      },
-      {
-        "label": "pVAH + TueH",
-        "price": 29881.25
+        "label": "pVAH",
+        "price": 29908.75
       },
       {
         "label": "pPOC",
-        "price": 29806.5
+        "price": 29842.25
       },
       {
-        "label": "ONL",
-        "price": 29783.75
+        "label": "pVAL",
+        "price": 29811.0
       },
       {
         "label": "WedL",
         "price": 29767.25
-      },
-      {
-        "label": "pVAL",
-        "price": 29638.5
-      },
-      {
-        "label": "TueL",
-        "price": 29494.5
       },
       {
         "label": "WL",
@@ -50,40 +42,32 @@
     ],
     "NQ": [
       {
+        "label": "WH",
+        "price": 30178.0
+      },
+      {
         "label": "PWH",
         "price": 30113.0
       },
       {
-        "label": "WedH + WH",
-        "price": 30004.0
+        "label": "WedH",
+        "price": 30009.0
       },
       {
-        "label": "ONH",
-        "price": 29989.25
-      },
-      {
-        "label": "pVAH + TueH",
-        "price": 29881.25
+        "label": "pVAH",
+        "price": 29908.75
       },
       {
         "label": "pPOC",
-        "price": 29806.5
+        "price": 29842.25
       },
       {
-        "label": "ONL",
-        "price": 29783.75
+        "label": "pVAL",
+        "price": 29811.0
       },
       {
         "label": "WedL",
         "price": 29767.25
-      },
-      {
-        "label": "pVAL",
-        "price": 29638.5
-      },
-      {
-        "label": "TueL",
-        "price": 29494.5
       },
       {
         "label": "WL",
@@ -96,44 +80,32 @@
     ],
     "MES": [
       {
+        "label": "WH",
+        "price": 7819.5
+      },
+      {
         "label": "PWH",
         "price": 7812.25
       },
       {
-        "label": "WedH + WH",
+        "label": "WedH",
         "price": 7794.25
       },
       {
-        "label": "ONH",
-        "price": 7778.25
-      },
-      {
-        "label": "TueH",
-        "price": 7772.75
-      },
-      {
         "label": "pVAH",
-        "price": 7772.0
+        "price": 7776.25
       },
       {
         "label": "pPOC",
-        "price": 7757.75
+        "price": 7772.5
       },
       {
-        "label": "ONL",
-        "price": 7752.25
+        "label": "pVAL",
+        "price": 7761.75
       },
       {
         "label": "WedL",
         "price": 7751.5
-      },
-      {
-        "label": "pVAL",
-        "price": 7740.75
-      },
-      {
-        "label": "TueL",
-        "price": 7712.5
       },
       {
         "label": "WL",
@@ -146,44 +118,32 @@
     ],
     "ES": [
       {
+        "label": "WH",
+        "price": 7819.5
+      },
+      {
         "label": "PWH",
         "price": 7812.25
       },
       {
-        "label": "WedH + WH",
+        "label": "WedH",
         "price": 7794.25
       },
       {
-        "label": "ONH",
-        "price": 7778.25
-      },
-      {
-        "label": "TueH",
-        "price": 7772.75
-      },
-      {
         "label": "pVAH",
-        "price": 7772.0
+        "price": 7776.25
       },
       {
         "label": "pPOC",
-        "price": 7757.75
+        "price": 7772.5
       },
       {
-        "label": "ONL",
-        "price": 7752.25
+        "label": "pVAL",
+        "price": 7761.75
       },
       {
         "label": "WedL",
         "price": 7751.5
-      },
-      {
-        "label": "pVAL",
-        "price": 7740.75
-      },
-      {
-        "label": "TueL",
-        "price": 7712.5
       },
       {
         "label": "WL",
