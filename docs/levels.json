@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 28, 2026 07:55 PM PT",
-  "date": "2026-10-28",
+  "updated": "Thu Oct 29, 2026 11:58 AM PT",
+  "date": "2026-10-29",
   "symbols": {
     "MNQ": [
       {
@@ -28,8 +28,24 @@
         "price": 29811.0
       },
       {
+        "label": "ONH",
+        "price": 29794.25
+      },
+      {
         "label": "WedL",
         "price": 29767.25
+      },
+      {
+        "label": "ThuH",
+        "price": 29677.0
+      },
+      {
+        "label": "ONL",
+        "price": 29482.5
+      },
+      {
+        "label": "ThuL",
+        "price": 29405.0
       },
       {
         "label": "WL",
@@ -66,8 +82,24 @@
         "price": 29811.0
       },
       {
+        "label": "ONH",
+        "price": 29794.25
+      },
+      {
         "label": "WedL",
         "price": 29767.25
+      },
+      {
+        "label": "ThuH",
+        "price": 29677.0
+      },
+      {
+        "label": "ONL",
+        "price": 29482.5
+      },
+      {
+        "label": "ThuL",
+        "price": 29405.0
       },
       {
         "label": "WL",
@@ -96,8 +128,16 @@
         "price": 7776.25
       },
       {
+        "label": "ONH",
+        "price": 7773.75
+      },
+      {
         "label": "pPOC",
         "price": 7772.5
+      },
+      {
+        "label": "ThuH",
+        "price": 7767.25
       },
       {
         "label": "pVAL",
@@ -106,6 +146,14 @@
       {
         "label": "WedL",
         "price": 7751.5
+      },
+      {
+        "label": "ONL",
+        "price": 7740.0
+      },
+      {
+        "label": "ThuL",
+        "price": 7725.25
       },
       {
         "label": "WL",
@@ -134,8 +182,16 @@
         "price": 7776.25
       },
       {
+        "label": "ONH",
+        "price": 7773.75
+      },
+      {
         "label": "pPOC",
         "price": 7772.5
+      },
+      {
+        "label": "ThuH",
+        "price": 7767.25
       },
       {
         "label": "pVAL",
@@ -144,6 +200,14 @@
       {
         "label": "WedL",
         "price": 7751.5
+      },
+      {
+        "label": "ONL",
+        "price": 7740.0
+      },
+      {
+        "label": "ThuL",
+        "price": 7725.25
       },
       {
         "label": "WL",
