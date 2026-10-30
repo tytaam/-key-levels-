@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 29, 2026 07:59 PM PT",
-  "date": "2026-10-29",
+  "updated": "Fri Oct 30, 2026 11:38 AM PT",
+  "date": "2026-10-30",
   "symbols": {
     "MNQ": [
       {
@@ -32,12 +32,24 @@
         "price": 29405.0
       },
       {
+        "label": "ONH",
+        "price": 29180.0
+      },
+      {
         "label": "PWL",
         "price": 28987.0
       },
       {
-        "label": "WL",
-        "price": 28821.5
+        "label": "FriH",
+        "price": 28860.5
+      },
+      {
+        "label": "ONL",
+        "price": 28756.25
+      },
+      {
+        "label": "FriL + WL",
+        "price": 28288.25
       }
     ],
     "NQ": [
@@ -70,12 +82,24 @@
         "price": 29405.0
       },
       {
+        "label": "ONH",
+        "price": 29180.0
+      },
+      {
         "label": "PWL",
         "price": 28987.0
       },
       {
-        "label": "WL",
-        "price": 28821.5
+        "label": "FriH",
+        "price": 28860.5
+      },
+      {
+        "label": "ONL",
+        "price": 28756.25
+      },
+      {
+        "label": "FriL + WL",
+        "price": 28288.25
       }
     ],
     "MES": [
@@ -108,12 +132,24 @@
         "price": 7725.25
       },
       {
-        "label": "WL",
-        "price": 7651.75
+        "label": "ONH",
+        "price": 7713.0
+      },
+      {
+        "label": "FriH",
+        "price": 7670.0
+      },
+      {
+        "label": "ONL",
+        "price": 7664.0
       },
       {
         "label": "PWL",
         "price": 7648.5
+      },
+      {
+        "label": "FriL + WL",
+        "price": 7567.25
       }
     ],
     "ES": [
@@ -146,12 +182,24 @@
         "price": 7725.25
       },
       {
-        "label": "WL",
-        "price": 7651.75
+        "label": "ONH",
+        "price": 7713.0
+      },
+      {
+        "label": "FriH",
+        "price": 7670.0
+      },
+      {
+        "label": "ONL",
+        "price": 7664.0
       },
       {
         "label": "PWL",
         "price": 7648.5
+      },
+      {
+        "label": "FriL + WL",
+        "price": 7567.25
       }
     ]
   }
