@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Nov 09, 2026 11:44 PM PT",
-  "date": "2026-11-09",
+  "updated": "Tue Nov 10, 2026 12:48 PM PT",
+  "date": "2026-11-10",
   "symbols": {
     "MNQ": [
       {
@@ -20,16 +20,24 @@
         "price": 28097.0
       },
       {
+        "label": "TueH",
+        "price": 28090.0
+      },
+      {
         "label": "pPOC",
         "price": 27942.25
       },
       {
-        "label": "ONL",
-        "price": 27869.0
-      },
-      {
         "label": "pVAL",
         "price": 27801.25
+      },
+      {
+        "label": "ONL",
+        "price": 27590.0
+      },
+      {
+        "label": "TueL",
+        "price": 27516.0
       },
       {
         "label": "MonL",
@@ -62,16 +70,24 @@
         "price": 28097.0
       },
       {
+        "label": "TueH",
+        "price": 28090.0
+      },
+      {
         "label": "pPOC",
         "price": 27942.25
       },
       {
-        "label": "ONL",
-        "price": 27869.0
-      },
-      {
         "label": "pVAL",
         "price": 27801.25
+      },
+      {
+        "label": "ONL",
+        "price": 27590.0
+      },
+      {
+        "label": "TueL",
+        "price": 27516.0
       },
       {
         "label": "MonL",
@@ -108,12 +124,20 @@
         "price": 7570.0
       },
       {
-        "label": "ONL",
-        "price": 7567.25
+        "label": "TueH",
+        "price": 7566.25
       },
       {
         "label": "pVAL",
         "price": 7541.5
+      },
+      {
+        "label": "ONL",
+        "price": 7509.0
+      },
+      {
+        "label": "TueL",
+        "price": 7493.0
       },
       {
         "label": "MonL",
@@ -150,12 +174,20 @@
         "price": 7570.0
       },
       {
-        "label": "ONL",
-        "price": 7567.25
+        "label": "TueH",
+        "price": 7566.25
       },
       {
         "label": "pVAL",
         "price": 7541.5
+      },
+      {
+        "label": "ONL",
+        "price": 7509.0
+      },
+      {
+        "label": "TueL",
+        "price": 7493.0
       },
       {
         "label": "MonL",
