@@ -1,5 +1,5 @@
 {
-  "updated": "Mon Nov 09, 2026 03:26 PM PT",
+  "updated": "Mon Nov 09, 2026 11:44 PM PT",
   "date": "2026-11-09",
   "symbols": {
     "MNQ": [
@@ -12,12 +12,20 @@
         "price": 28129.25
       },
       {
+        "label": "ONH",
+        "price": 28109.0
+      },
+      {
         "label": "pVAH",
         "price": 28097.0
       },
       {
         "label": "pPOC",
         "price": 27942.25
+      },
+      {
+        "label": "ONL",
+        "price": 27869.0
       },
       {
         "label": "pVAL",
@@ -46,12 +54,20 @@
         "price": 28129.25
       },
       {
+        "label": "ONH",
+        "price": 28109.0
+      },
+      {
         "label": "pVAH",
         "price": 28097.0
       },
       {
         "label": "pPOC",
         "price": 27942.25
+      },
+      {
+        "label": "ONL",
+        "price": 27869.0
       },
       {
         "label": "pVAL",
@@ -84,8 +100,16 @@
         "price": 7599.5
       },
       {
+        "label": "ONH",
+        "price": 7598.75
+      },
+      {
         "label": "pPOC",
         "price": 7570.0
+      },
+      {
+        "label": "ONL",
+        "price": 7567.25
       },
       {
         "label": "pVAL",
@@ -118,8 +142,16 @@
         "price": 7599.5
       },
       {
+        "label": "ONH",
+        "price": 7598.75
+      },
+      {
         "label": "pPOC",
         "price": 7570.0
+      },
+      {
+        "label": "ONL",
+        "price": 7567.25
       },
       {
         "label": "pVAL",
