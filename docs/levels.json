@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Nov 10, 2026 11:08 PM PT",
-  "date": "2026-11-10",
+  "updated": "Wed Nov 11, 2026 01:25 PM PT",
+  "date": "2026-11-11",
   "symbols": {
     "MNQ": [
       {
@@ -8,8 +8,16 @@
         "price": 28969.0
       },
       {
-        "label": "ONH + WH",
-        "price": 28280.0
+        "label": "WedH + WH",
+        "price": 28697.0
+      },
+      {
+        "label": "ONH",
+        "price": 28406.25
+      },
+      {
+        "label": "WedL",
+        "price": 28199.0
       },
       {
         "label": "TueH",
@@ -50,8 +58,16 @@
         "price": 28969.0
       },
       {
-        "label": "ONH + WH",
-        "price": 28280.0
+        "label": "WedH + WH",
+        "price": 28697.0
+      },
+      {
+        "label": "ONH",
+        "price": 28406.25
+      },
+      {
+        "label": "WedL",
+        "price": 28199.0
       },
       {
         "label": "TueH",
@@ -92,12 +108,16 @@
         "price": 7746.25
       },
       {
-        "label": "WH",
-        "price": 7600.5
+        "label": "WedH + WH",
+        "price": 7671.5
       },
       {
         "label": "ONH",
-        "price": 7597.5
+        "price": 7620.0
+      },
+      {
+        "label": "WedL",
+        "price": 7593.25
       },
       {
         "label": "TueH",
@@ -138,12 +158,16 @@
         "price": 7746.25
       },
       {
-        "label": "WH",
-        "price": 7600.5
+        "label": "WedH + WH",
+        "price": 7671.5
       },
       {
         "label": "ONH",
-        "price": 7597.5
+        "price": 7620.0
+      },
+      {
+        "label": "WedL",
+        "price": 7593.25
       },
       {
         "label": "TueH",
