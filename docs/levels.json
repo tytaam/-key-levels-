@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Nov 16, 2026 03:23 PM PT",
-  "date": "2026-11-16",
+  "updated": "Tue Nov 17, 2026 12:29 AM PT",
+  "date": "2026-11-17",
   "symbols": {
     "MNQ": [
       {
@@ -20,6 +20,10 @@
         "price": 27623.5
       },
       {
+        "label": "ONH",
+        "price": 27498.0
+      },
+      {
         "label": "pPOC",
         "price": 27430.0
       },
@@ -32,8 +36,8 @@
         "price": 27234.75
       },
       {
-        "label": "WL",
-        "price": 27224.25
+        "label": "ONL + WL",
+        "price": 27180.5
       },
       {
         "label": "PWL",
@@ -58,6 +62,10 @@
         "price": 27623.5
       },
       {
+        "label": "ONH",
+        "price": 27498.0
+      },
+      {
         "label": "pPOC",
         "price": 27430.0
       },
@@ -70,8 +78,8 @@
         "price": 27234.75
       },
       {
-        "label": "WL",
-        "price": 27224.25
+        "label": "ONL + WL",
+        "price": 27180.5
       },
       {
         "label": "PWL",
@@ -96,6 +104,10 @@
         "price": 7494.5
       },
       {
+        "label": "ONH",
+        "price": 7456.75
+      },
+      {
         "label": "pPOC",
         "price": 7434.0
       },
@@ -104,8 +116,12 @@
         "price": 7421.0
       },
       {
-        "label": "MonL + WL",
+        "label": "MonL",
         "price": 7420.25
+      },
+      {
+        "label": "ONL + WL",
+        "price": 7414.75
       },
       {
         "label": "PWL",
@@ -130,6 +146,10 @@
         "price": 7494.5
       },
       {
+        "label": "ONH",
+        "price": 7456.75
+      },
+      {
         "label": "pPOC",
         "price": 7434.0
       },
@@ -138,8 +158,12 @@
         "price": 7421.0
       },
       {
-        "label": "MonL + WL",
+        "label": "MonL",
         "price": 7420.25
+      },
+      {
+        "label": "ONL + WL",
+        "price": 7414.75
       },
       {
         "label": "PWL",
