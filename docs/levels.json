@@ -1,5 +1,5 @@
 {
-  "updated": "Tue Nov 17, 2026 02:22 PM PT",
+  "updated": "Tue Nov 17, 2026 11:56 PM PT",
   "date": "2026-11-17",
   "symbols": {
     "MNQ": [
@@ -12,36 +12,28 @@
         "price": 28279.25
       },
       {
-        "label": "MonH",
-        "price": 27716.25
-      },
-      {
-        "label": "pVAH",
-        "price": 27623.5
-      },
-      {
         "label": "ONH",
-        "price": 27498.0
-      },
-      {
-        "label": "pPOC",
-        "price": 27430.0
+        "price": 27605.25
       },
       {
         "label": "TueH",
         "price": 27351.0
       },
       {
-        "label": "pVAL",
-        "price": 27337.5
-      },
-      {
-        "label": "MonL",
-        "price": 27234.75
+        "label": "pVAH",
+        "price": 27105.5
       },
       {
         "label": "ONL",
-        "price": 27085.0
+        "price": 27093.0
+      },
+      {
+        "label": "pPOC",
+        "price": 26973.75
+      },
+      {
+        "label": "pVAL",
+        "price": 26754.25
       },
       {
         "label": "PWL",
@@ -62,36 +54,28 @@
         "price": 28279.25
       },
       {
-        "label": "MonH",
-        "price": 27716.25
-      },
-      {
-        "label": "pVAH",
-        "price": 27623.5
-      },
-      {
         "label": "ONH",
-        "price": 27498.0
-      },
-      {
-        "label": "pPOC",
-        "price": 27430.0
+        "price": 27605.25
       },
       {
         "label": "TueH",
         "price": 27351.0
       },
       {
-        "label": "pVAL",
-        "price": 27337.5
-      },
-      {
-        "label": "MonL",
-        "price": 27234.75
+        "label": "pVAH",
+        "price": 27105.5
       },
       {
         "label": "ONL",
-        "price": 27085.0
+        "price": 27093.0
+      },
+      {
+        "label": "pPOC",
+        "price": 26973.75
+      },
+      {
+        "label": "pVAL",
+        "price": 26754.25
       },
       {
         "label": "PWL",
@@ -112,40 +96,32 @@
         "price": 7614.25
       },
       {
-        "label": "MonH",
-        "price": 7538.75
-      },
-      {
-        "label": "pVAH",
-        "price": 7494.5
-      },
-      {
-        "label": "ONH",
-        "price": 7456.75
-      },
-      {
         "label": "TueH",
         "price": 7437.0
       },
       {
-        "label": "pPOC",
-        "price": 7434.0
-      },
-      {
-        "label": "pVAL",
-        "price": 7421.0
-      },
-      {
-        "label": "MonL",
-        "price": 7420.25
-      },
-      {
-        "label": "ONL",
-        "price": 7395.25
+        "label": "ONH",
+        "price": 7434.75
       },
       {
         "label": "PWL",
         "price": 7385.5
+      },
+      {
+        "label": "pVAH",
+        "price": 7372.25
+      },
+      {
+        "label": "ONL",
+        "price": 7363.25
+      },
+      {
+        "label": "pPOC",
+        "price": 7348.5
+      },
+      {
+        "label": "pVAL",
+        "price": 7321.5
       },
       {
         "label": "TueL + WL",
@@ -162,40 +138,32 @@
         "price": 7614.25
       },
       {
-        "label": "MonH",
-        "price": 7538.75
-      },
-      {
-        "label": "pVAH",
-        "price": 7494.5
-      },
-      {
-        "label": "ONH",
-        "price": 7456.75
-      },
-      {
         "label": "TueH",
         "price": 7437.0
       },
       {
-        "label": "pPOC",
-        "price": 7434.0
-      },
-      {
-        "label": "pVAL",
-        "price": 7421.0
-      },
-      {
-        "label": "MonL",
-        "price": 7420.25
-      },
-      {
-        "label": "ONL",
-        "price": 7395.25
+        "label": "ONH",
+        "price": 7434.75
       },
       {
         "label": "PWL",
         "price": 7385.5
+      },
+      {
+        "label": "pVAH",
+        "price": 7372.25
+      },
+      {
+        "label": "ONL",
+        "price": 7363.25
+      },
+      {
+        "label": "pPOC",
+        "price": 7348.5
+      },
+      {
+        "label": "pVAL",
+        "price": 7321.5
       },
       {
         "label": "TueL + WL",
