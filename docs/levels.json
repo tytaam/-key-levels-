@@ -1,5 +1,5 @@
 {
-  "updated": "Wed Nov 25, 2026 01:10 AM PT",
+  "updated": "Wed Nov 25, 2026 03:05 PM PT",
   "date": "2026-11-25",
   "symbols": {
     "MNQ": [
@@ -28,6 +28,10 @@
         "price": 26281.0
       },
       {
+        "label": "WedH",
+        "price": 26146.25
+      },
+      {
         "label": "pVAL",
         "price": 26133.75
       },
@@ -37,11 +41,11 @@
       },
       {
         "label": "ONL",
-        "price": 25637.25
+        "price": 25393.75
       },
       {
-        "label": "WL",
-        "price": 25462.0
+        "label": "WedL + WL",
+        "price": 25027.5
       },
       {
         "label": "PWL",
@@ -74,6 +78,10 @@
         "price": 26281.0
       },
       {
+        "label": "WedH",
+        "price": 26146.25
+      },
+      {
         "label": "pVAL",
         "price": 26133.75
       },
@@ -83,11 +91,11 @@
       },
       {
         "label": "ONL",
-        "price": 25637.25
+        "price": 25393.75
       },
       {
-        "label": "WL",
-        "price": 25462.0
+        "label": "WedL + WL",
+        "price": 25027.5
       },
       {
         "label": "PWL",
@@ -120,6 +128,10 @@
         "price": 7216.75
       },
       {
+        "label": "WedH",
+        "price": 7214.0
+      },
+      {
         "label": "pVAL",
         "price": 7181.25
       },
@@ -129,11 +141,11 @@
       },
       {
         "label": "ONL",
-        "price": 7120.5
+        "price": 7058.25
       },
       {
-        "label": "WL",
-        "price": 6992.0
+        "label": "WedL + WL",
+        "price": 6982.5
       },
       {
         "label": "PWL",
@@ -166,6 +178,10 @@
         "price": 7216.75
       },
       {
+        "label": "WedH",
+        "price": 7214.0
+      },
+      {
         "label": "pVAL",
         "price": 7181.25
       },
@@ -175,11 +191,11 @@
       },
       {
         "label": "ONL",
-        "price": 7120.5
+        "price": 7058.25
       },
       {
-        "label": "WL",
-        "price": 6992.0
+        "label": "WedL + WL",
+        "price": 6982.5
       },
       {
         "label": "PWL",
