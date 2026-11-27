@@ -1,5 +1,5 @@
 {
-  "updated": "Fri Nov 27, 2026 01:05 AM PT",
+  "updated": "Fri Nov 27, 2026 02:41 PM PT",
   "date": "2026-11-27",
   "symbols": {
     "MNQ": [
@@ -10,6 +10,14 @@
       {
         "label": "WH",
         "price": 27137.0
+      },
+      {
+        "label": "FriH",
+        "price": 26816.0
+      },
+      {
+        "label": "FriL",
+        "price": 26208.5
       },
       {
         "label": "WedH",
@@ -46,6 +54,14 @@
         "price": 27137.0
       },
       {
+        "label": "FriH",
+        "price": 26816.0
+      },
+      {
+        "label": "FriL",
+        "price": 26208.5
+      },
+      {
         "label": "WedH",
         "price": 26146.25
       },
@@ -76,8 +92,12 @@
         "price": 7614.25
       },
       {
-        "label": "WH",
-        "price": 7313.25
+        "label": "FriH + WH",
+        "price": 7320.75
+      },
+      {
+        "label": "FriL",
+        "price": 7222.75
       },
       {
         "label": "pVAH + WedH",
@@ -106,8 +126,12 @@
         "price": 7614.25
       },
       {
-        "label": "WH",
-        "price": 7313.25
+        "label": "FriH + WH",
+        "price": 7320.75
+      },
+      {
+        "label": "FriL",
+        "price": 7222.75
       },
       {
         "label": "pVAH + WedH",
